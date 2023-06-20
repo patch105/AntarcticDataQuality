@@ -1,6 +1,6 @@
 # AntarcticDataQuality
 
-<a href="https://zenodo.org/badge/latestdoi/617738118"><img src="https://zenodo.org/badge/617738118.svg" alt="DOI"></a>
+<a href="https://zenodo.org/badge/latestdoi/641286171"><img src="https://zenodo.org/badge/641286171.svg" alt="DOI"></a>
 
 The primary aim of this project is to assess data quality limitations of the most comprehensive set of biological records for terrestrial Antarctica. The recent release of the SCAR Antarctic Terrestrial Biodiversity Database offers unprecedented opportunities for modelling biodiversity over the continent, however models must be built with regard to existing limitations.
 
