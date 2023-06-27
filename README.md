@@ -9,6 +9,7 @@ The project aims, methods, results, and discussion are presented in our paper en
 Please see Terauds et al. (2023) for a description of the database and its construction.
 
 The data/code presented here includes:
+- Terrestrial_Antarctic_Biodiversity_Database_Cleaning.html: R Markdown document of database cleaning prior to analysis.
 - Geographic_Coverage.html : R Markdown document of geographic coverage analysis.
 - Temporal_Coverage.html : R Markdown document of temporal coverage analysis.
 
