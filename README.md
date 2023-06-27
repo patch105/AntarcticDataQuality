@@ -12,5 +12,6 @@ The data/code presented here includes:
 - Terrestrial_Antarctic_Biodiversity_Database_Cleaning.html: R Markdown document of database cleaning prior to analysis.
 - Geographic_Coverage.html : R Markdown document of geographic coverage analysis.
 - Temporal_Coverage.html : R Markdown document of temporal coverage analysis.
+- Uncertainty.html : R Markdown document of geographic, taxonomic, temporal, and combined uncertainty analysis.
 
 Contact Charlotte Patterson at crpattrsn@gmail.com for queries.
