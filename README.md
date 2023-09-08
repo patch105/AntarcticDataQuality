@@ -13,6 +13,7 @@ The data/code presented here includes:
 - Geographic_Coverage.html : R Markdown document of geographic coverage analysis.
 - Temporal_Coverage.html : R Markdown document of temporal coverage analysis.
 - Taxonomic_Coverage.html : R Markdown document of taxonomic coverage analysis.
-- Uncertainty.html : R Markdown document of geographic, taxonomic, temporal, and combined uncertainty analysis.
+- Environmental_Coverage.html : R Markdown document of environmental coverage analysis.
+
 
 Contact Charlotte Patterson at crpattrsn@gmail.com for queries.
