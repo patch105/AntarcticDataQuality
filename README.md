@@ -15,5 +15,7 @@ The data/code presented here includes:
 - Taxonomic_Coverage.html : R Markdown document of taxonomic coverage analysis.
 - Environmental_Coverage.html : R Markdown document of environmental coverage analysis.
 
+Raster outputs of geographic, temporal, and environmental coverage are saved as tiffs:
+- Output_coverage_tiffs.zip
 
 Contact Charlotte Patterson at crpattrsn@gmail.com for queries.
