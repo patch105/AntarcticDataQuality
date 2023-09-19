@@ -15,6 +15,7 @@ The code presented here includes:
 - Temporal_Coverage.html : R Markdown document of temporal coverage analysis.
 - Taxonomic_Coverage.html : R Markdown document of taxonomic coverage analysis.
 - Environmental_Coverage.html : R Markdown document of environmental coverage analysis.
+- Additional_functions.zip : A zip file containing R code for additional required functions.
 
 Raster outputs of geographic, temporal, and environmental coverage are saved as tiffs:
 - Output_coverage_tiffs.zip
