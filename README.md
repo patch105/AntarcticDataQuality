@@ -11,6 +11,7 @@ Please see Terauds et al. ('The SCAR Antarctic Terrestrial Biodiversity Database
 The code presented here includes:
 - Terrestrial_Antarctic_Biodiversity_Database_Cleaning.html: R Markdown document of database cleaning prior to analysis.
 - Geographic_Coverage.html : R Markdown document of geographic coverage analysis.
+- Geographic_Bias.html : R Markdown document of geographic bias analysis.
 - Temporal_Coverage.html : R Markdown document of temporal coverage analysis.
 - Taxonomic_Coverage.html : R Markdown document of taxonomic coverage analysis.
 - Environmental_Coverage.html : R Markdown document of environmental coverage analysis.
