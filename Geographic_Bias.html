@@ -1069,11 +1069,14 @@ other changes are to generate the random samples.</p>
 <div id="plotting-null-and-empirical" class="section level2">
 <h2>Plotting null and empirical</h2>
 <pre class="r"><code># ACBR_bias_plot &lt;- ggplot(data = ACBR_bias, aes(y = ACBR_ID, x = mean)) +
-#   geom_point(aes(color = type), size = 2, position = position_dodgev(height = 0.01)) +
-#   geom_errorbarh(aes(xmin = lower, xmax = upper, color = type), width = 0.2, size = 0.8, alpha = 0.3) +
+#   geom_point(data = subset(ACBR_bias, type %in% &quot;Simulation&quot;), aes(color = type), size = 2, position = position_dodgev(height = 0.01)) +
+#   geom_errorbarh(data = subset(ACBR_bias, type %in% &quot;Simulation&quot;), aes(xmin = lower, xmax = upper, color = type), width = 0.1, size = 0.4, alpha = 1) +
+#   geom_point(data = subset(ACBR_bias, type %in% &quot;Empirical&quot;), aes(color = type), size = 2, position = position_dodgev(height = 0.01)) +
+#   geom_errorbarh(data = subset(ACBR_bias, type %in% &quot;Empirical&quot;), aes(xmin = lower, xmax = upper, color = type), width = 0.1, size = 0.4, alpha = 1) +
 #   theme_classic() +
 #   labs(x = expression(paste(&quot;Posterior &quot;, italic(&quot;w&quot;))), y = &quot;Antarctic Conservation Bioregion&quot;)  + # define axis label
 #   theme(legend.position = c(.82, .9)) +
+#   scale_y_continuous(breaks = seq(1,16,1)) +
 #   scale_color_manual(name = &quot;&quot;,
 #                      labels = c(&quot;Fitted&quot;, &quot;Null&quot;),
 #                      values = c(&quot;#0d8aadff&quot;, &quot;#75044fff&quot;))
