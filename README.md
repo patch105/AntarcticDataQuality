@@ -17,13 +17,15 @@ The code presented here includes:
 - Environmental_Coverage.html : R Markdown document of environmental coverage analysis.
 - Additional_functions.zip : A zip file containing R code for additional required functions.
 
-The data presented here includes:
-- Data/AAD_ice_free_vector_TIDIED.shp : The SCAR Antarctic Digital Database (ADD) rock outcrop layer (v. 7.3) but with three polygons removed due to corrupt geometry.
-- Data/ACBRs_v2_2016.shp : The Antarctic Conservation Biogeographic Regions, downloaded from the Australian Antarctic Data Centre.
-- Data/add_coastline_high_res_polygon_v7_5.shp : The SCAR Antarctic Digital Database (ADD) high resolution coastline polygon (v. 7.5).
-- Data/COMNAP_Antarctic_Facilities_Master_2020.csv : The COMNAP register of Antarctic Facilities, downloaded from https://github.com/PolarGeospatialCenter/comnap-antarctic-facilities/releases/tag/v3.3.0.
-- Data/PTM_rankings.csv : The classification of priority threat management functional groups in terms of group 'intactness' and the presence or absence of a 'wallacean' shortfall. Explanation in Methods, Taxonomic Coverage (Main Text).
-- Data/Environmental_layers : The ten environmental layers used in an assessment of Environmental Coverage. See Methods, Environmental Coverage (Main Text) and Appendix S2, Figure S1 and Table S1 for layer descriptions.
+The data used in analyses (not provided here) includes:
+- The SCAR Antarctic Digital Database (ADD) rock outcrop layer (v. 7.3).
+- The Antarctic Conservation Biogeographic Regions, downloaded from the Australian Antarctic Data Centre.
+- The SCAR Antarctic Digital Database (ADD) high resolution coastline polygon (v. 7.5).
+- The COMNAP register of Antarctic Facilities, downloaded from https://github.com/PolarGeospatialCenter/comnap-antarctic-facilities/releases/tag/v3.3.0.
+- The ten environmental layers used in an assessment of Environmental Coverage. See Methods, Environmental Coverage (Main Text) and Appendix S2, Figure S1 and Table S1 for layer descriptions. Layers available on request.
+
+Additional data provided here:
+- PTM_rankings.csv : The classification of priority threat management functional groups in terms of group 'intactness' and the presence or absence of a 'wallacean' shortfall. Explanation in Methods, Taxonomic Coverage (Main Text).
 
 Raster outputs of geographic, temporal, and environmental coverage are saved as tiffs:
 - Output_coverage_tiffs.zip
