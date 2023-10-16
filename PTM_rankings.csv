@@ -1,0 +1,72 @@
+name,PTM_ID,intactness,wallacean
+Emperor penguins,32,Decline,0
+Dry soil nematodes,11,Decline,1
+Adelie penguins,30,Decline,0
+Chinstrap penguins,31,Decline,1
+Penguin rookery associated nematodes,12,Decline,0
+Antarctic shags,34,Decline,0
+Procellariids,38,Decline,1
+Intertidal oligochaetes,10,Decline,0
+Leafy liverworts,20,Decline,1
+Xeric mosses,18,Decline,1
+Greater sheathbills,35,Decline,0
+Southern giant petrels,36,Decline,0
+Skuas,37,Decline,0
+Poduromorpha springtails,6,Decline,1
+"Freshwater nematodes, rotifers, tardigrades",2,Decline,1
+Entomobryomorpha springtails,5,Decline,1
+Truly aquatic mosses,19,Neutral,1
+Fruticose & foliose lichens,22,Neutral,1
+Freshwater & limnetic algae,21,Increase,1
+Lithic microbes,27,Increase,0
+Gentoo penguins,33,Increase,0
+"Wet-soil nematodes, rotifers, tardigrades",3,Increase,1
+"Moss associated nematodes, rotifers, tardigrades",4,Increase,1
+Intertidal mites,8,Increase,1
+Midges,1,Increase,1
+Crustose lichens,23,Increase,1
+Mesic mosses,17,Increase,1
+Colobanthus quitensis,13,Increase,1
+Biological soil crust communities,25,Increase,1
+Deschampsia antarctica,14,Increase,1
+Hydric mosses,16,Increase,1
+Bank-forming mosses,15,Increase,1
+Dry soil microbes,26,Increase,1
+Free-living mites,9,Increase,1
+Microbial mats,28,Increase,1
+Wet-soil microbes,29,Increase,1
+Mat-forming terrestrial algae,24,Increase,1
+Kelp gulls,39,NA,NA
+Antarctic terns,40,NA,NA
+Macaroni pengins,41,NA,NA
+King penguins,42,NA,NA
+Vagrants,43,NA,NA
+Elephant seals,44,NA,NA
+Fur seals,45,NA,NA
+Weddell seals,46,NA,NA
+Non-marine aquatic system plankton,50,NA,NA
+Freshwater decapods,51,NA,NA
+Freshwater copepods,52,NA,NA
+Thalloid liverworts,53,NA,NA
+Invasive,54,NA,NA
+Sea spiders,55,NA,NA
+Monospecific ectoparasites,56,NA,NA
+Multispecific ectoparasites,57,NA,NA
+Mammal parasites,58,NA,NA
+Snow algae,59,NA,NA
+Marine algae,60,NA,NA
+Other lake,61,NA,NA
+Other intertidal,62,NA,NA
+Fish,63,NA,NA
+Marine invertebrates,64,NA,NA
+Marine plankton,65,NA,NA
+Terrestrial protist,66,NA,NA
+Terrestrial algae,67,NA,NA
+Sub-Antarctic beetles,68,NA,NA
+Arctic tern,69,NA,NA
+Freshwater microbes,70,NA,NA
+Brackish microbes,71,NA,NA
+Chromista,72,NA,NA
+Nematophagous fungi,73,NA,NA
+Mushrooms,74,NA,NA
+Vegetative fungi,75,NA,NA
