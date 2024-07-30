@@ -10,6 +10,6 @@ authors:
 identifiers:
   - type: doi
     value: 10.5281/zenodo.7939932
-url: 'https://github.com/patch105/AntarcticDataQuality/tree/v1.0.2'
-version: v.1.0.2
+url: 'https://github.com/patch105/AntarcticDataQuality/tree/v1.0.3'
+version: v.1.0.3
 date-released: '2023-11-07'
